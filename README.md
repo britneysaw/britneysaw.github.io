@@ -1,4 +1,4 @@
-### About Me
+## About Me
 Hi, I’m Britney!  
 I recently graduated from the National University of Singapore, where I majored in Data Science and Analytics. I’m a curious and motivated learner who enjoys striking a good balance between fun and self-improvement. In my free time, I like cooking, exploring musical instruments, and lately I've been training for a marathon. 
 
@@ -13,23 +13,23 @@ Feel free to check back to track my progress!
 
 ---
 
-### Education
-#### National University of Singapore (NUS)	(Aug 2021 – June 2025)
-Bachelor of Science (Hons) in Data Science and Analytics    
+## Education
+### National University of Singapore (NUS)	(Aug 2021 – June 2025)
+#### Bachelor of Science (Hons) in Data Science and Analytics    
 • Recipient of NUS Merit Scholarship  
 • Dean’s List AY22/23 (Top 5% of cohort)  
 • Courses Taken:  
-    Introduction to Data Science (A),  
-    Data Visualisation (A-),  
-    Numerical Computation (A),  
-    Data Structures and Algorithms (A-),  
-    Regression Analysis (A-),  
-    Machine Learning (A-),  
-    High Dimensional Statistical Analysis (A-),  
-    Case Study in Business and Commerce (A-)  
+   Introduction to Data Science (A),  
+   Data Visualisation (A-),  
+   Numerical Computation (A),  
+   Data Structures and Algorithms (A-),  
+   Regression Analysis (A-),  
+   Machine Learning (A-),  
+   High Dimensional Statistical Analysis (A-),  
+   Case Study in Business and Commerce (A-)  
 
-#### Eindhoven University of Technology (TU/E), Netherlands (Feb 2024 – July 2024)
-Student Exchange Program in Mathematics and Computer Science  
+### Eindhoven University of Technology (TU/E), Netherlands (Feb 2024 – July 2024)
+#### Student Exchange Program in Mathematics and Computer Science  
 • Took Master level modules in Data-Driven AI and Time Series Forecasting  
 • Conducted research on stochastic processes to model emergency response and optimize deployment strategies
 • Achieved 9.5/10 in Financial Mathematics
