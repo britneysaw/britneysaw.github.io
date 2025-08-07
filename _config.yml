@@ -1,9 +1,3 @@
 title: Britney Saw
 logo: /assets/images/profile_picture.png
 theme: jekyll-theme-minimal
-
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Resume"
-    url: "/resume/"

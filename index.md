@@ -1,3 +1,6 @@
+<a href="/" style="margin-right: 15px;">Home</a>
+<a href="/resume/">Resume</a>
+
 ## About Me
 Hi, I’m Britney!  
 I recently graduated from the National University of Singapore, where I majored in Data Science and Analytics. I’m a curious, motivated learner who values a good balance between fun and personal growth. In my free time, I enjoy cooking, exploring musical instruments, and most recently, I've been training for a marathon. 
