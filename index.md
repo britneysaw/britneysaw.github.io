@@ -10,11 +10,12 @@ Feel free to check back to track my progress!
 
 <!-- Insert link to download my CV -->
 <!-- You can [download my full resume here](./assets/files/Britney_Saw_Yu_Xuan_Resume.pdf).   -->
+<a href="/resume/" class="button">View My Resume</a>
 
 ---
 
 ## Education
-### National University of Singapore (NUS)	(Aug 2021 – June 2025)
+### National University of Singapore (NUS), 2025
 #### Bachelor of Science (Hons) in Data Science and Analytics    
 • Recipient of NUS Merit Scholarship  
 • Dean’s List AY22/23 (Top 5% of cohort)  
@@ -28,8 +29,10 @@ Feel free to check back to track my progress!
    High Dimensional Statistical Analysis (A-),  
    Case Study in Business and Commerce (A-)  
 
-### Eindhoven University of Technology (TU/E), Netherlands (Feb 2024 – July 2024)
+### Eindhoven University of Technology (TU/E), Netherlands, 2024
 #### Student Exchange Program in Mathematics and Computer Science  
 • Took Master level modules in Data-Driven AI and Time Series Forecasting  
-• Conducted research on stochastic processes to model emergency response and optimize deployment strategies
-• Achieved 9.5/10 in Financial Mathematics
+• Conducted research on stochastic processes to model emergency response and optimize deployment strategies  
+• Achieved 9.5/10 in Financial Mathematics  
+
+---
