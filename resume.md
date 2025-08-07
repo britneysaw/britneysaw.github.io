@@ -6,6 +6,8 @@ permalink: /resume/
 <a href="/" style="margin-right: 15px;">Home</a>
 <a href="/resume/">Resume</a>
 
+---
+
 # Resume
 
 [Download CV](assets/Britney_Saw_Yu_Xuan_Resume.pdf)
