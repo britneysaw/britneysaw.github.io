@@ -9,8 +9,8 @@ Right now, I’m excited to be working on two personal projects:
 1. An interface to help people find car parks around Singapore, using the OneMap API developed by the Singapore Land Authority.
 2. A Tableau dashboard visualizing my expenses during my six-month exchange program in the Netherlands.
 
-Feel free to check back to track my progress!
+I’ll be updating this space as I go—feel free to check back for progress!
 
 <!-- Insert link to download my CV -->
 <!-- You can [download my full resume here](./assets/files/Britney_Saw_Yu_Xuan_Resume.pdf).   -->
-<a href="/resume/" class="button">View My Resume</a>
+<!-- <a href="/resume/" class="button">View My Resume</a> -->

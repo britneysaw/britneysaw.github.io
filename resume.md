@@ -3,6 +3,8 @@ layout: default
 title: Resume
 permalink: /resume/
 ---
+<a href="/" style="margin-right: 15px;">Home</a>
+<a href="/resume/">Resume</a>
 
 # Resume
 
