@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Resume
 permalink: /resume/
@@ -8,7 +8,7 @@ permalink: /resume/
 
 ---
 
-# Resume
+## Resume
 
 [Download CV](assets/Britney_Saw_Yu_Xuan_Resume.pdf)
 
@@ -35,4 +35,4 @@ permalink: /resume/
 • Conducted research on stochastic processes to model emergency response and optimize deployment strategies  
 • Achieved 9.5/10 in Financial Mathematics  
 
----
+--- -->
