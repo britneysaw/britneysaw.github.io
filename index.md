@@ -1,14 +1,14 @@
-<nav style="margin-bottom: 2rem; text-align: left;">
-  <a href="/">Home</a>
+<!-- <nav style="margin-bottom: 2rem; text-align: left;"> -->
+  <!-- <a href="/">Home</a> -->
   <!-- <a href="#resume">Resume</a>
   <a href="#projects">Projects</a> -->
-</nav>
+<!-- </nav> -->
 
 ---
 
 ## About Me
 Hi, I’m Britney!  
-I recently graduated from the National University of Singapore with a degree in Data Science and Analytics. 
+I recently graduated from the **National University of Singapore** with a degree in **Data Science and Analytics**. 
 
 I’m a **curious, motivated learner** who values a balance between *fun* and *personal growth*. Right now, I'm working on: 
 1. A Tableau dashboard visualizing expenses from my six-month exchange program in the Netherlands.
@@ -22,9 +22,7 @@ In my free time, I enjoy cooking, exploring musical instruments, and most recent
 
 <a href="assets/Britney_Saw_Yu_Xuan_Resume.pdf" class="button" style="display:inline-block; padding: 8px 16px; background:#005f99; color:#fff; border-radius:4px; text-decoration:none;">Download My Resume (PDF)</a>
 
-Here's an overview of my education, work experience and projects.
-
----
+Here's an overview of my education, work experience and projects:
 
 ### Education
 #### National University of Singapore (NUS), 2025 <br> Bachelor of Science (Hons) in Data Science and Analytics    
