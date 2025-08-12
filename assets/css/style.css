@@ -1,0 +1,54 @@
+/* ===== Autumn Muted Theme ===== */
+
+/* Background */
+body {
+  background-color: #FEFEFA; /* Baby Powder */
+  color: #333; /* Keep body text dark gray for readability */
+}
+
+/* Titles */
+h1, h2, h3, h4, h5, h6 {
+  color: #4B3621; /* Coffee Brown */
+}
+
+/* Links */
+a {
+  color: #4B3621;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Navigation links */
+nav a {
+  color: #4B3621;
+  margin: 0 15px;
+}
+nav a:hover {
+  color: #E2725B; /* Terracotta hover */
+  font-weight: bold;
+}
+
+/* Buttons */
+.button {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #E2725B; /* Terracotta */
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+.button:hover {
+  background-color: #cc5f4a; /* Slightly darker terracotta */
+  transform: scale(1.03);
+}
+
+/* Resume Button (if inline style removed) */
+a[href$=".pdf"].button {
+  background-color: #E2725B;
+}
+a[href$=".pdf"].button:hover {
+  background-color: #cc5f4a;
+}
