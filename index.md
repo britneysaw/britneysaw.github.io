@@ -4,8 +4,6 @@
   <a href="#projects">Projects</a> -->
 <!-- </nav> -->
 
----
-
 ## About Me
 Hi, I’m Britney!  
 I recently graduated from the **National University of Singapore** with a degree in **Data Science and Analytics**. 
