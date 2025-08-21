@@ -8,9 +8,9 @@
 Hi, I’m Britney!  
 I recently graduated from the **National University of Singapore** with a degree in **Data Science and Analytics**. 
 
-I’m a **curious, motivated learner** who values a balance between *fun* and *personal growth*. Right now, I'm working on: 
-1. A Tableau dashboard visualizing expenses from my six-month exchange program in the Netherlands.
-2. An interface to help people find car parks around Singapore.
+I’m a **motivated and curious** individual who values continuous growth and meaningful challenges. Currently, I'm working on: 
+1. A web interface to help people find car parks around Singapore, using the OneMap API by the Singapore Land Authority.
+2. A Retrieval-Augmented Generation (RAG) pipeline that transforms file content into presentation-ready slide decks.
 
 In my free time, I enjoy cooking, exploring musical instruments, and most recently, I've been training for a marathon. 
 
@@ -56,10 +56,18 @@ Key contributions:
 ---
 
 ### Projects
+#### Personal Travel Expenses Dashboard, Aug 2025
+• Cleaned a 500+ line transaction dataset in Excel, including standardizing column/item names across languages (Dutch/English), formatting inconsistencies, and handling missing values and multi-currency transactions  
+• Engineered additional fields (e.g., country/city identifiers, number of days spent) to enrich analysis  
+• Built an interactive Tableau dashboard with maps, line charts, and Top-N breakdowns to analyze spending from a six-month exchange program in the Netherlands, uncovering insights on travel patterns and cost distribution by country, city, and category  
+
 #### Fraud Detection in Telecom Networks using Graph Neural Networks, Feb 2025 - Apr 2025
 • Designed a GNN-based fraud detection system on multi-million record telecom data during a collaborative 8-week hackathon, processing and engineered graph-based features to model user interactions and detect fraudulent behavior  
 • Conducted exploratory data analysis (EDA) and anomaly detection to identify fraud patterns across voice calls, SMS and application usage, which informed graph construction for modeling  
 • Tuned ensemble models (CARE-GNN) to achieve high classification performance (AUC 0.9534) for fraud prediction  
+
+#### Stochastic Modelling for Emergency Medical Services, 2024
+• Applied stochastic processes to optimize emergency medical service (EMS) response times in a constrained geographic area, developing Markov chain models to simulate scenarios and identify optimal ambulance deployment strategies  
 
 #### Carpark Demand Simulation at NUS, Aug 2023 – Nov 2023
 • Led a 4-person team to build and containerize an interactive R Shiny application using Docker, integrating a discrete-event simulation model to optimize allocation across 6 NUS carparks  
@@ -67,4 +75,8 @@ Key contributions:
 • Presented data-driven recommendations and translated technical insights into actionable parking system optimization strategies to non-technical stakeholders for decision making  
 • Delivered a user-friendly and visually appealing UI, earning positive feedback from stakeholders  
 
+#### Grammatical Acceptance Classfication (Machine Learning), Aug 2023 – Dec 2023
+• Implemented an end-to-end supervised machine learning pipeline for NLP classification using Scikit-learn, collaborating with a cross-disciplinary team of computer engineering and data science students  
+• Conducted data analysis, preprocessing, feature engineering, and model evaluation to benchmark traditional ML models against transformer-based baselines
+• Optimized Random Forest and SVM classifiers through hyperparameter tuning, achieving improved accuracy and F1-score over baseline models
 ---
