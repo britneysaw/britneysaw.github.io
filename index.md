@@ -58,7 +58,7 @@ Key contributions:
 ### Projects
 #### Personal Travel Expenses Dashboard, Aug 2025
 • Cleaned a 500+ line transaction dataset in Excel, including standardizing column/item names across languages (Dutch/English), formatting inconsistencies, and handling missing values and multi-currency transactions  
-• Engineered additional fields (e.g., country/city identifiers, number of days spent) to enrich analysis  
+• Engineered additional fields (e.g., geographic data such as country/city identifiers, number of days spent) to enrich analysis  
 • Built an interactive Tableau dashboard with maps, line charts, and Top-N breakdowns to analyze spending from a six-month exchange program in the Netherlands, uncovering insights on travel patterns and cost distribution by country, city, and category  
 
 #### Fraud Detection in Telecom Networks using Graph Neural Networks, Feb 2025 - Apr 2025
@@ -78,5 +78,5 @@ Key contributions:
 #### Grammatical Acceptance Classfication (Machine Learning), Aug 2023 – Dec 2023
 • Implemented an end-to-end supervised machine learning pipeline for NLP classification using Scikit-learn, collaborating with a cross-disciplinary team of computer engineering and data science students  
 • Conducted data analysis, preprocessing, feature engineering, and model evaluation to benchmark traditional ML models against transformer-based baselines
-• Optimized Random Forest and SVM classifiers through hyperparameter tuning, achieving improved accuracy and F1-score over baseline models
+• Optimized Random Forest and SVM classifiers through hyperparameter tuning, achieving improved accuracy and F1-score over baseline models  
 ---
