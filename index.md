@@ -98,4 +98,5 @@ featuring map markers that show occupancy rates for season/visitor lots across s
 • Implemented an end-to-end supervised machine learning pipeline for NLP classification using Scikit-learn, collaborating with a cross-disciplinary team of computer engineering and data science students  
 • Conducted data analysis, preprocessing, feature engineering, and model evaluation to benchmark traditional ML models against transformer-based baselines
 • Optimized Random Forest and SVM classifiers through hyperparameter tuning, achieving improved accuracy and F1-score over baseline models  
+
 ---
