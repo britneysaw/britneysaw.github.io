@@ -84,7 +84,7 @@ Key contributions:
 #### Stochastic Modelling for Emergency Medical Services, 2024
 • Applied stochastic processes to optimize emergency medical service (EMS) response times in a constrained geographic area, developing Markov chain models to simulate scenarios and identify optimal ambulance deployment strategies  
 
-<a href="assets/Stochastic_EMS_Report.pdf" 
+<a href="assets/Modelling_Stochastic.pdf" 
    target="_blank" class="button">
   View Full Report (PDF)
 </a>
