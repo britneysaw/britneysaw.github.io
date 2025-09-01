@@ -62,7 +62,10 @@ Key contributions:
 • Engineered additional fields (e.g., geographic data such as country/city identifiers, number of days spent) to enrich analysis  
 • Built an interactive Tableau dashboard with maps, line charts, and Top-N breakdowns to analyze spending from a six-month exchange program in the Netherlands, uncovering insights on travel patterns and spending distribution by countries, cities, and categories
 
-[View Tableau Dashboard](https://public.tableau.com/views/exchange_expenses/FinalDashboard?:language=en-US&:display_count=n&:origin=viz_share_link){:target="_blank"}
+<a href="https://public.tableau.com/views/exchange_expenses/FinalDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" 
+   target="_blank" class="button">
+  View Interactive Tableau Dashboard
+</a>
 
 <!-- <div class="tableauPlaceholder" style="width:100%; height:0; padding-bottom:75%; position:relative; margin-top:1rem;">
   <iframe src="https://public.tableau.com/views/exchange_expenses/FinalDashboard?:embed=y&:display_count=yes&:showVizHome=no"
@@ -81,7 +84,10 @@ Key contributions:
 #### Stochastic Modelling for Emergency Medical Services, 2024
 • Applied stochastic processes to optimize emergency medical service (EMS) response times in a constrained geographic area, developing Markov chain models to simulate scenarios and identify optimal ambulance deployment strategies  
 
-[View Full Report (PDF)](assets/Modelling_Stochastic.pdf){:target="_blank"}
+<a href="assets/Stochastic_EMS_Report.pdf" 
+   target="_blank" class="button">
+  View Full Report (PDF)
+</a>
 
 <!-- <div style="width:100%; height:800px; margin-top:1rem;">
   <iframe src="assets/Modelling_Stochastic.pdf" 
