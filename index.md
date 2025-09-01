@@ -50,7 +50,7 @@ Holmusk is a healthcare analytics company specializing in real-world data-driven
 Key contributions:  
 • Optimized over 100 Python and R functions to enhance SQL query performance and improve overall user experience on Holmusk’s analytics platform  
 • Automated and performed quality assurance on technical documentation using shell scripting and the Sphinx library, improving platform maintainability and internal knowledge sharing on GitHub Wiki  
-• Refactored SQL pipelines into PySpark on Databricks, improving research workflow efficiency
+• Refactored SQL pipelines into PySpark on Databricks, improving research workflow efficiency  
 • Led migration of package management from pip to uv, cutting development setup time by > 50%  
 • Implemented explainable AI (SHAP, DALEX) to deliver interpretable data-driven model insights for researchers and business stakeholders
 
@@ -58,9 +58,9 @@ Key contributions:
 
 ### Projects
 #### Personal Travel Expenses Dashboard, Jun 2025 - Aug 2025
-• Cleaned a 500+ line multi-currency transaction data in Excel, resolving inconsistencies and handling missing values
+• Cleaned a 500+ line multi-currency transaction data in Excel, resolving inconsistencies and handling missing values  
 • Engineered additional fields (e.g., geographic data such as country/city identifiers, number of days spent) to enrich analysis  
-• Built an interactive Tableau dashboard with maps, line charts, and Top-N breakdowns to analyze spending from a six-month exchange program in the Netherlands, uncovering insights on travel patterns and spending distribution by countries, cities, and categories
+• Built an interactive Tableau dashboard with maps, line charts, and Top-N breakdowns to analyze spending from a six-month exchange program in the Netherlands, uncovering insights on travel patterns and spending distribution by countries, cities, and categories  
 
 <a href="https://public.tableau.com/views/exchange_expenses/FinalDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" 
    target="_blank" class="button">
@@ -75,11 +75,11 @@ Key contributions:
 </div> -->
 
 #### Fraud Detection in Telecom Networks using Graph Neural Networks, Feb 2025 - Apr 2025
-• Designed a GNN-based fraud detection system on multi-million record telecom data during a collaborative 8-week hackathon
+• Designed a GNN-based fraud detection system on multi-million record telecom data during a collaborative 8-week hackathon  
 • Conducted exploratory data analysis (EDA) and anomaly detection to identify fraud patterns across voice calls, SMS and application usage, which informed graph construction for modeling  
-• Created network visualizations with Pyvis to highlight user interactions and fraud patterns
-• Engineered graph-based features and trained ensemble models (CARE-GNN), achieving AUC 0.9534 for fraud prediction
-• Utilized Python libraries including pandas, numpy, networkx, PyTorch, scikit-learn, matplotlib, seaborn, and shap for data processing, modeling, and visualization
+• Created network visualizations with Pyvis to highlight user interactions and fraud patterns  
+• Engineered graph-based features and trained ensemble models (CARE-GNN), achieving AUC 0.9534 for fraud prediction  
+• Utilized Python libraries including pandas, numpy, networkx, PyTorch, scikit-learn, matplotlib, seaborn, and shap for data processing, modeling, and visualization  
 
 #### Stochastic Modelling for Emergency Medical Services, 2024
 • Applied stochastic processes to optimize emergency medical service (EMS) response times in a constrained geographic area, developing Markov chain models to simulate scenarios and identify optimal ambulance deployment strategies  
@@ -99,14 +99,14 @@ Key contributions:
 
 #### Carpark Demand Simulation at NUS, Aug 2023 – Nov 2023
 • Led 8-person team to build an interactive R Shiny dashboard with geospatial visualization (Leaflet), 
-featuring map markers that show occupancy rates for season/visitor lots across six NUS carparks
-• Applied user-centered design principles and iterated on stakeholder feedback to optimize layout, color coding, and interactive controls for non-technical users, earning positive feedback for visually appealing UI
-• Integrated discrete-event simulation model to forecast occupancy, simulate closures, and evaluate lot allocation strategies, translating results into actionable insights that improved operational planning efficiency
-• Dockerized frontend and backend for reproducible deployment and integrated simulation workflows
+featuring map markers that show occupancy rates for season/visitor lots across six NUS carparks  
+• Applied user-centered design principles and iterated on stakeholder feedback to optimize layout, color coding, and interactive controls for non-technical users, earning positive feedback for visually appealing UI  
+• Integrated discrete-event simulation model to forecast occupancy, simulate closures, and evaluate lot allocation strategies, translating results into actionable insights that improved operational planning efficiency  
+• Dockerized frontend and backend for reproducible deployment and integrated simulation workflows  
 
 #### Grammatical Acceptance Classfication (Machine Learning), Aug 2023 – Dec 2023
 • Implemented an end-to-end supervised machine learning pipeline for NLP classification using Scikit-learn, collaborating with a cross-disciplinary team of computer engineering and data science students  
-• Conducted data analysis, preprocessing, feature engineering, and model evaluation to benchmark traditional ML models against transformer-based baselines
+• Conducted data analysis, preprocessing, feature engineering, and model evaluation to benchmark traditional ML models against transformer-based baselines  
 • Optimized Random Forest and SVM classifiers through hyperparameter tuning, achieving improved accuracy and F1-score over baseline models  
 
 ---
