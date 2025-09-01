@@ -9,7 +9,7 @@ Hi, I’m Britney!
 I recently graduated from the **National University of Singapore** with a degree in **Data Science and Analytics**. 
 
 I’m a **motivated and curious** individual who values continuous growth and meaningful challenges. Currently, I'm working on: 
-1. A web interface to help people find car parks around Singapore, using the OneMap API by the Singapore Land Authority.
+1. A interface to analyse car parks around Singapore, using the OneMap API by the Singapore Land Authority.
 2. A Retrieval-Augmented Generation (RAG) pipeline that transforms file content into presentation-ready slide decks.
 
 In my free time, I enjoy cooking, exploring musical instruments, and most recently, I've been training for a marathon. 
@@ -38,7 +38,7 @@ Here's an overview of my education, work experience and projects:
 
 #### Eindhoven University of Technology (TU/E), Netherlands, 2024 <br> Student Exchange Program in Mathematics and Computer Science  
 • Master level modules in Data-Driven AI and Time Series Forecasting  
-• Research on stochastic processes to model emergency response and optimize deployment strategies  
+• Research on stochastic processes to model emergency ambulance response and optimize deployment strategies  
 • Achieved 9.5/10 in Financial Mathematics  
 
 ---
@@ -49,31 +49,50 @@ Holmusk is a healthcare analytics company specializing in real-world data-driven
 
 Key contributions:  
 • Optimized over 100 Python and R functions to enhance SQL query performance and improve overall user experience on Holmusk’s analytics platform  
-• Automated and maintained technical documentation using shell scripting and the Sphinx library, boosting platform maintainability and updating the GitHub Wiki  
-• Refactored internal data pipelines using PySpark on Databricks to improve processing and scalability  
-•  Streamlined package setup processes by reducing package setup time, boosting operational efficiency for development teams  
+• Automated and performed quality assurance on technical documentation using shell scripting and the Sphinx library, improving platform maintainability and internal knowledge sharing on GitHub Wiki  
+• Refactored SQL pipelines into PySpark on Databricks, improving research workflow efficiency
+• Led migration of package management from pip to uv, cutting development setup time by > 50%  
+• Implemented explainable AI (SHAP, DALEX) to deliver interpretable data-driven model insights for researchers and business stakeholders
 
 ---
 
 ### Projects
-#### Personal Travel Expenses Dashboard, Aug 2025
-• Cleaned a 500+ line transaction dataset in Excel, including standardizing column/item names across languages (Dutch/English), formatting inconsistencies, and handling missing values and multi-currency transactions  
+#### Personal Travel Expenses Dashboard, Jun 2025 - Aug 2025
+• Cleaned a 500+ line multi-currency transaction data in Excel, resolving inconsistencies and handling missing values
 • Engineered additional fields (e.g., geographic data such as country/city identifiers, number of days spent) to enrich analysis  
-• Built an interactive Tableau dashboard with maps, line charts, and Top-N breakdowns to analyze spending from a six-month exchange program in the Netherlands, uncovering insights on travel patterns and cost distribution by country, city, and category  
+• Built an interactive Tableau dashboard with maps, line charts, and Top-N breakdowns to analyze spending from a six-month exchange program in the Netherlands, uncovering insights on travel patterns and spending distribution by countries, cities, and categories
+
+<!-- <div class="tableauPlaceholder" style="width:100%; height:0; padding-bottom:75%; position:relative; margin-top:1rem;">
+  <iframe src="https://public.tableau.com/views/exchange_expenses/FinalDashboard?:embed=y&:display_count=yes&:showVizHome=no"
+          style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
+          allowfullscreen>
+  </iframe>
+</div> -->
 
 #### Fraud Detection in Telecom Networks using Graph Neural Networks, Feb 2025 - Apr 2025
-• Designed a GNN-based fraud detection system on multi-million record telecom data during a collaborative 8-week hackathon, processing and engineered graph-based features to model user interactions and detect fraudulent behavior  
+• Designed a GNN-based fraud detection system on multi-million record telecom data during a collaborative 8-week hackathon
 • Conducted exploratory data analysis (EDA) and anomaly detection to identify fraud patterns across voice calls, SMS and application usage, which informed graph construction for modeling  
-• Tuned ensemble models (CARE-GNN) to achieve high classification performance (AUC 0.9534) for fraud prediction  
+• Created network visualizations with Pyvis to highlight user interactions and fraud patterns
+• Engineered graph-based features and trained ensemble models (CARE-GNN), achieving AUC 0.9534 for fraud prediction
+• Utilized Python libraries including pandas, numpy, networkx, PyTorch, scikit-learn, matplotlib, seaborn, and shap for data processing, modeling, and visualization
 
 #### Stochastic Modelling for Emergency Medical Services, 2024
 • Applied stochastic processes to optimize emergency medical service (EMS) response times in a constrained geographic area, developing Markov chain models to simulate scenarios and identify optimal ambulance deployment strategies  
 
+<!-- <div style="width:100%; height:800px; margin-top:1rem;">
+  <iframe src="assets/Modelling_Stochastic.pdf" 
+          style="width:100%; height:100%; border:1px solid #ccc;" 
+          frameborder="0" 
+          allowfullscreen>
+  </iframe>
+</div> -->
+
 #### Carpark Demand Simulation at NUS, Aug 2023 – Nov 2023
-• Led a 4-person team to build and containerize an interactive R Shiny application using Docker, integrating a discrete-event simulation model to optimize allocation across 6 NUS carparks  
-• Created a simulation dashboard with data visualization to support agile operational decision-making for sudden surges in parking demand  
-• Presented data-driven recommendations and translated technical insights into actionable parking system optimization strategies to non-technical stakeholders for decision making  
-• Delivered a user-friendly and visually appealing UI, earning positive feedback from stakeholders  
+• Led 8-person team to build an interactive R Shiny dashboard with geospatial visualization (Leaflet), 
+featuring map markers that show occupancy rates for season/visitor lots across six NUS carparks
+• Applied user-centered design principles and iterated on stakeholder feedback to optimize layout, color coding, and interactive controls for non-technical users, earning positive feedback for visually appealing UI
+• Integrated discrete-event simulation model to forecast occupancy, simulate closures, and evaluate lot allocation strategies, translating results into actionable insights that improved operational planning efficiency
+• Dockerized frontend and backend for reproducible deployment and integrated simulation workflows
 
 #### Grammatical Acceptance Classfication (Machine Learning), Aug 2023 – Dec 2023
 • Implemented an end-to-end supervised machine learning pipeline for NLP classification using Scikit-learn, collaborating with a cross-disciplinary team of computer engineering and data science students  
