@@ -62,12 +62,12 @@ Key contributions:
 • Engineered additional fields (e.g., geographic data such as country/city identifiers, number of days spent) to enrich analysis  
 • Built an interactive Tableau dashboard with maps, line charts, and Top-N breakdowns to analyze spending from a six-month exchange program in the Netherlands, uncovering insights on travel patterns and spending distribution by countries, cities, and categories
 
-<!-- <div class="tableauPlaceholder" style="width:100%; height:0; padding-bottom:75%; position:relative; margin-top:1rem;">
+<div class="tableauPlaceholder" style="width:100%; height:0; padding-bottom:75%; position:relative; margin-top:1rem;">
   <iframe src="https://public.tableau.com/views/exchange_expenses/FinalDashboard?:embed=y&:display_count=yes&:showVizHome=no"
           style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"
           allowfullscreen>
   </iframe>
-</div> -->
+</div>
 
 #### Fraud Detection in Telecom Networks using Graph Neural Networks, Feb 2025 - Apr 2025
 • Designed a GNN-based fraud detection system on multi-million record telecom data during a collaborative 8-week hackathon
@@ -79,13 +79,13 @@ Key contributions:
 #### Stochastic Modelling for Emergency Medical Services, 2024
 • Applied stochastic processes to optimize emergency medical service (EMS) response times in a constrained geographic area, developing Markov chain models to simulate scenarios and identify optimal ambulance deployment strategies  
 
-<!-- <div style="width:100%; height:800px; margin-top:1rem;">
+<div style="width:100%; height:800px; margin-top:1rem;">
   <iframe src="assets/Modelling_Stochastic.pdf" 
           style="width:100%; height:100%; border:1px solid #ccc;" 
           frameborder="0" 
           allowfullscreen>
   </iframe>
-</div> -->
+</div>
 
 #### Carpark Demand Simulation at NUS, Aug 2023 – Nov 2023
 • Led 8-person team to build an interactive R Shiny dashboard with geospatial visualization (Leaflet), 
