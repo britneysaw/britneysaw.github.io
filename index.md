@@ -9,7 +9,7 @@ Hi, I’m Britney!
 I recently graduated from the **National University of Singapore** with a degree in **Data Science and Analytics**. 
 
 I’m a **motivated and curious** individual who values continuous growth and meaningful challenges. Currently, I'm working on: 
-1. A interface to analyse car parks around Singapore, using the OneMap API by the Singapore Land Authority.
+1. A map to analyse car park availability in Singapore, using LTA DataMall and OneMap API. [Github](https://github.com/britneysaw/sg-carpark-map)
 2. A Retrieval-Augmented Generation (RAG) pipeline that transforms file content into presentation-ready slide decks.
 
 In my free time, I enjoy cooking, exploring musical instruments, and most recently, I've been training for a marathon. 
@@ -26,15 +26,15 @@ Here's an overview of my education, work experience and projects:
 #### National University of Singapore (NUS), 2025 <br> Bachelor of Science (Hons) in Data Science and Analytics    
 • Recipient of NUS Merit Scholarship  
 • Dean’s List AY22/23 (Top 5% of cohort)  
-• Courses Taken:  
-   Introduction to Data Science (A),  
-   Data Visualisation (A-),  
-   Numerical Computation (A),  
-   Data Structures and Algorithms (A-),  
-   Regression Analysis (A-),  
-   Machine Learning (A-),  
-   High Dimensional Statistical Analysis (A-),  
-   Case Study in Business and Commerce (A-)  
+• Courses Taken with Distinction:  
+   Introduction to Data Science,  
+   Data Visualisation,  
+   Numerical Computation,    
+   Data Structures and Algorithms,  
+   Regression Analysis,  
+   Machine Learning,  
+   High Dimensional Statistical Analysis,  
+   Case Study in Business and Commerce  
 
 #### Eindhoven University of Technology (TU/E), Netherlands, 2024 <br> Student Exchange Program in Mathematics and Computer Science  
 • Master level modules in Data-Driven AI and Time Series Forecasting  
