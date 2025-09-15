@@ -9,7 +9,10 @@ Hi, I’m Britney!
 I recently graduated from the **National University of Singapore** with a degree in **Data Science and Analytics**. 
 
 I’m a **motivated and curious** individual who values continuous growth and meaningful challenges. Currently, I'm working on: 
-1. A map to analyse car park availability in Singapore, using LTA DataMall and OneMap API. --> [View Github](https://github.com/britneysaw/sg-carpark-map)
+1. A map to analyse car park availability in Singapore, using LTA DataMall and OneMap API. 
+    - [View Github](https://github.com/britneysaw/sg-carpark-map) 
+    - [▶ Watch my project demo](assets/CO3211_Presentation.mp4)
+
 2. A Retrieval-Augmented Generation (RAG) pipeline that transforms file content into presentation-ready slide decks.
 
 In my free time, I enjoy cooking, exploring musical instruments, and most recently, I've been training for a marathon. 
