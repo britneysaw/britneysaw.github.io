@@ -10,7 +10,6 @@ I recently graduated from the **National University of Singapore** with a degree
 
 I’m a **motivated and curious** individual who values continuous growth and meaningful challenges. Currently, I'm working on: 
 1. A map to analyse car park availability in Singapore, using LTA DataMall and OneMap API. 
-    - [View Github](https://github.com/britneysaw/sg-carpark-map) 
     - <a href="https://github.com/britneysaw/sg-carpark-map" class="highlight-link">View Github</a>
     - <a href="assets/CO3211_Presentation.mp4" class="highlight-link">▶ Watch my project demo </a>
 
@@ -23,7 +22,9 @@ In my free time, I enjoy cooking, exploring musical instruments, and most recent
 
 ## Work and Education
 
-<a href="assets/Britney_Saw_Yu_Xuan_Resume.pdf" class="button" style="display:inline-block; padding: 8px 16px; background:#005f99; color:#fff; border-radius:4px; text-decoration:none;">Download My Resume (PDF)</a>
+<a href="assets/Britney_Saw_Yu_Xuan_Resume.pdf" class="button">Download My Resume (PDF)</a>
+
+<!-- <a href="assets/Britney_Saw_Yu_Xuan_Resume.pdf" class="button" style="display:inline-block; padding: 8px 16px; background:#005f99; color:#fff; border-radius:4px; text-decoration:none;">Download My Resume (PDF)</a> -->
 
 Here's an overview of my education, work experience and projects:
 

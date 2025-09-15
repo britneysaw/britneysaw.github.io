@@ -35,7 +35,7 @@ nav a:hover {
 
 /* Special highlighted link */
 .highlight-link {
-  color: #FF6600; /* Bright orange */
+  color: #E2725B; /* Terracotta */
   font-weight: bold;
 }
 .highlight-link:hover {
@@ -57,11 +57,3 @@ nav a:hover {
   background-color: #cc5f4a; /* Slightly darker terracotta */
   transform: scale(1.03);
 }
-
-// /* Resume Button (if inline style removed) */
-// a[href$=".pdf"].button {
-//   background-color: #E2725B;
-// }
-// a[href$=".pdf"].button:hover {
-//   background-color: #cc5f4a;
-// }
