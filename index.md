@@ -21,8 +21,8 @@ I recently graduated from the **National University of Singapore** with a degree
 I’m a **motivated and curious** individual who values continuous growth and meaningful challenges. Currently, I'm working on: 
 1. A map to analyse car park availability in Singapore, using LTA DataMall and OneMap API. 
     - <a href="https://github.com/britneysaw/sg-carpark-map" class="highlight-link">View Github</a>
-    - <a href="assets/CO3211_Presentation.mp4" class="highlight-link">▶ Watch my 1-min project demo </a>
-
+    <!-- - <a href="assets/CO3211_Presentation.mp4" class="highlight-link">▶ Watch my 1-min project demo </a> -->
+    - <a href="https://youtu.be/G-ax-wkcEb4" class="highlight-link">▶ Watch my 1-min project demo </a>
 
 2. A Retrieval-Augmented Generation (RAG) pipeline that transforms file content into presentation-ready slide decks.
 
