@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MQFW23M7N9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MQFW23M7N9');
+</script>
+
 <!-- <nav style="margin-bottom: 2rem; text-align: left;"> -->
   <!-- <a href="/">Home</a> -->
   <!-- <a href="#resume">Resume</a>
