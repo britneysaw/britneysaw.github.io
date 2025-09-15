@@ -16,8 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Links */
 a {
-  // color: #4B3621;
-  color: #0077cc; /* Bright blue */
+  color: #4B3621;
   text-decoration: none;
 }
 a:hover {
@@ -32,6 +31,16 @@ nav a {
 nav a:hover {
   color: #E2725B; /* Terracotta hover */
   font-weight: bold;
+}
+
+/* Special highlighted link */
+.highlight-link {
+  color: #FF6600; /* Bright orange */
+  font-weight: bold;
+}
+.highlight-link:hover {
+  color: #cc5200; /* Darker orange on hover */
+  text-decoration: underline;
 }
 
 /* Buttons */
@@ -49,10 +58,10 @@ nav a:hover {
   transform: scale(1.03);
 }
 
-/* Resume Button (if inline style removed) */
-a[href$=".pdf"].button {
-  background-color: #E2725B;
-}
-a[href$=".pdf"].button:hover {
-  background-color: #cc5f4a;
-}
+// /* Resume Button (if inline style removed) */
+// a[href$=".pdf"].button {
+//   background-color: #E2725B;
+// }
+// a[href$=".pdf"].button:hover {
+//   background-color: #cc5f4a;
+// }
